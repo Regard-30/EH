@@ -1,5 +1,4 @@
 # Anforderungen:
-    - Server-Mod
     - NeoForge 1.21.1
     - related-trek.gl.joinmc.link
 
