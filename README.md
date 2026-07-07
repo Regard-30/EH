@@ -7,6 +7,7 @@
     - [ETF] Entity Texture Features - [Fabric & Forge] von Traben
     - Copper Age Backport von Smallinger
     - Iris Shaders von coderbot
+    - No Chat Restrictions von Aizistral
     - Simple Voice Chat von henkelmax
     - Sodium von JellySquid
 
