@@ -9,3 +9,6 @@
     - Iris Shaders von coderbot
     - Simple Voice Chat von henkelmax
     - Sodium von JellySquid
+
+# Empfohlen
+    - Server-Mod
