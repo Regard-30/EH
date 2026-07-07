@@ -12,4 +12,4 @@
     - Sodium von JellySquid
 
 # Empfohlen
-    - Server-Mod
+    - Server-Mod (siehe Releases)
