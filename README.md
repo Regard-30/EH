@@ -9,7 +9,7 @@
     - Iris Shaders von coderbot
     - No Chat Restrictions von Aizistral
     - Simple Voice Chat von henkelmax
-    - Sodium von JellySquid
+    - Sodium (Version: Sodium 0.6.13 for NeoForge) von JellySquid
 
 # Empfohlen
     - Server-Mod (siehe Releases)
