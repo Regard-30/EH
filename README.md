@@ -15,4 +15,3 @@
     - Sodium (Version: Sodium 0.6.13 for NeoForge) von JellySquid
 
 # Empfohlen
-    - Server-Mod (siehe Releases)
