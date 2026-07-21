@@ -8,7 +8,7 @@
     - Copper Age Backport von Smallinger
     - Drink Beer Refill von DragonsPlus
     - Farmer's Delight von vectorwing
-    - Inventory Restore Astryxion
+    - Inventory Restore von Astryxion
     - Iris Shaders von coderbot
     - No Chat Restrictions von Aizistral
     - Simple Voice Chat von henkelmax
