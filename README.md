@@ -1,6 +1,5 @@
 # Anforderungen:
     - NeoForge 1.21.1
-    - related-trek.gl.joinmc.link
 
 # Modliste:
     - [EMF] Entity Model Features [Fabric & Forge] von Traben
