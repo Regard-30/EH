@@ -17,3 +17,4 @@
     - Sodium (Version: Sodium 0.6.13 for NeoForge) von JellySquid
 
 # Empfohlen
+    - https://www.curseforge.com/minecraft/modpacks/extending-horizons
