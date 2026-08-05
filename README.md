@@ -12,7 +12,7 @@
     - Inventory Restore von Astryxion
     - Iris Shaders von coderbot
     - No Chat Restrictions von Aizistral
-    - Project Radio von n2styles
+    - OpenFM von MichiyoRavencroft
     - Simple Voice Chat von henkelmax
     - Sodium (Version: Sodium 0.6.13 for NeoForge) von JellySquid
 
