@@ -11,6 +11,7 @@
     - Farmer's Delight von vectorwing
     - Inventory Restore von Astryxion
     - Iris Shaders von coderbot
+    - Just Enough Items von mezz
     - No Chat Restrictions von Aizistral
     - OpenFM von MichiyoRavencroft
     - Simple Voice Chat von henkelmax
