@@ -11,7 +11,7 @@
     - Embeddium von FiniteReality
     - Farmer's Delight von vectorwing
     - Inventory Restore von Astryxion
-    - Just Enough Items von mezz
+    - Just Enough Items (JEI) von mezz
     - NeoPoculus von Frenk012
     - No Chat Restrictions von Aizistral
     - OpenFM von MichiyoRavencroft
