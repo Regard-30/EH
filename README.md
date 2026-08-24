@@ -8,14 +8,14 @@
     - Copper Age Backport (Fix benötigt: https://github.com/Smallinger/Copper-Age-Backport/issues/107#issuecomment-5136261563) von Smallinger
     - Create von simibubi
     - Drink Beer Refill von DragonsPlus
+    - Embeddium von FiniteReality
     - Farmer's Delight von vectorwing
     - Inventory Restore von Astryxion
-    - Iris Shaders von coderbot
     - Just Enough Items von mezz
+    - NeoPoculus von Frenk012
     - No Chat Restrictions von Aizistral
     - OpenFM von MichiyoRavencroft
     - Simple Voice Chat von henkelmax
-    - Sodium (Version: Sodium 0.6.13 for NeoForge) von JellySquid
 
 # Empfohlen
     - https://www.curseforge.com/minecraft/modpacks/extending-horizons
