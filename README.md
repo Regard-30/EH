@@ -10,8 +10,11 @@
     - Drink Beer Refill von DragonsPlus
     - Embeddium von FiniteReality
     - Farmer's Delight von vectorwing
+    - Fzzy Config von fzzyhmstrs
+    - Immersive Paintings von Conczin
     - Inventory Restore von Astryxion
     - Just Enough Items (JEI) von mezz
+    - Kotlin for Forge von thedarkcolour
     - NeOculus von kaguya154
     - No Chat Restrictions von Aizistral
     - OpenFM von MichiyoRavencroft
