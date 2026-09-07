@@ -18,6 +18,7 @@
     - NeOculus von kaguya154
     - No Chat Restrictions von Aizistral
     - OpenFM von MichiyoRavencroft
+    - Psychedelic Drug Chemistry von The_Goat_
     - Simple Voice Chat von henkelmax
 
 # Empfohlen
