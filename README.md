@@ -4,6 +4,7 @@
 # Modliste:
     - [EMF] Entity Model Features [Fabric & Forge] von Traben
     - [ETF] Entity Texture Features - [Fabric & Forge] von Traben
+    - Antique Atlas von Hunternif
     - AppleSkin von squeek502
     - Copper Age Backport (Fix benötigt: https://github.com/Smallinger/Copper-Age-Backport/issues/107#issuecomment-5136261563) von Smallinger
     - Create von simibubi
