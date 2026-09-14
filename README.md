@@ -21,6 +21,7 @@
     - OpenFM von MichiyoRavencroft
     - Psychedelic Drug Chemistry von The_Goat_
     - Simple Voice Chat von henkelmax
+    - UnionLib von Stereowalker
 
 # Empfohlen
     - https://www.curseforge.com/minecraft/modpacks/extending-horizons
