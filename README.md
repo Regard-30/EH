@@ -14,6 +14,7 @@
     - Fzzy Config von fzzyhmstrs
     - Immersive Paintings von Conczin
     - Inventory Restore von Astryxion
+    - Jade von Snownee
     - Just Enough Items (JEI) von mezz
     - Kotlin for Forge von thedarkcolour
     - NeOculus von kaguya154
