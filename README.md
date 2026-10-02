@@ -8,7 +8,6 @@
     - AppleSkin von squeek502
     - Copper Age Backport (Fix benötigt: https://github.com/Smallinger/Copper-Age-Backport/issues/107#issuecomment-5136261563) von Smallinger
     - Create von simibubi
-    - Deadly Quicksand (Fabric & Neo/Forge) von ZioVitoPIXELFORGE
     - Drink Beer Refill von DragonsPlus
     - Embeddium von FiniteReality
     - Farmer's Delight von vectorwing
@@ -22,6 +21,7 @@
     - No Chat Restrictions von Aizistral
     - OpenFM von MichiyoRavencroft
     - Psychedelic Drug Chemistry von The_Goat_
+    - Sawmill von MehVahdJukaar
     - Simple Voice Chat von henkelmax
     - UnionLib von Stereowalker
 
