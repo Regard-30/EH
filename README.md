@@ -17,6 +17,7 @@
     - Jade von Snownee
     - Just Enough Items (JEI) von mezz
     - Kotlin for Forge von thedarkcolour
+    - Moonlight Lib von MehVahdJukaar
     - NeOculus von kaguya154
     - No Chat Restrictions von Aizistral
     - OpenFM von MichiyoRavencroft
