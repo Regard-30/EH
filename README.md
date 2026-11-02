@@ -9,6 +9,7 @@
     - Architectury API von shedaniel
     - Better Cloud Shadows von evanbones
     - Better Days von wendall911
+    - Blackwolf Library von 00theblackwolf00
     - Copper Age Backport (Fix benötigt: https://github.com/Smallinger/Copper-Age-Backport/issues/107#issuecomment-5136261563) von Smallinger
     - Create von simibubi
     - Create: Renewable Natural Blocks von S1iced_
@@ -25,6 +26,7 @@
     - Kotlin for Forge von thedarkcolour
     - MezzConfig von mezz
     - Moonlight Lib von MehVahdJukaar
+    - More Decorative Blocks - BlackWolf Design von 00theblackwolf00
     - NeOculus von kaguya154
     - No Chat Restrictions von Aizistral
     - OpenFM von MichiyoRavencroft
