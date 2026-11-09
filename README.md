@@ -12,6 +12,7 @@
     - Blackwolf Library von 00theblackwolf00
     - Copper Age Backport (Fix benötigt: https://github.com/Smallinger/Copper-Age-Backport/issues/107#issuecomment-5136261563) von Smallinger
     - Create von simibubi
+    - Create: Copper & Zinc von robinfrt
     - Create: Renewable Natural Blocks von S1iced_
     - Drink Beer Refill von DragonsPlus
     - Embeddium von FiniteReality
