@@ -30,6 +30,7 @@
     - More Decorative Blocks - BlackWolf Design von 00theblackwolf00
     - NeOculus von kaguya154
     - No Chat Restrictions von Aizistral
+    - Ok Zoomer - It's Zoom! von EnnuiLangeweile
     - OpenFM von MichiyoRavencroft
     - Project Atmosphere: Realistic Climate & Weather von Gaboouu
     - Psychedelic Drug Chemistry von The_Goat_
