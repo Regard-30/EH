@@ -30,7 +30,6 @@
     - Moonlight Lib von MehVahdJukaar
     - More Decorative Blocks - BlackWolf Design von 00theblackwolf00
     - NeOculus von kaguya154
-    - No Chat Restrictions von Aizistral
     - Ok Zoomer - It's Zoom! von EnnuiLangeweile
     - OpenFM von MichiyoRavencroft
     - Project Atmosphere: Realistic Climate & Weather von Gaboouu
@@ -40,6 +39,7 @@
     - Simple Clouds von nonamecrackers2
     - Simple Voice Chat von henkelmax
     - UnionLib von Stereowalker
+    - Unrestricted von LobsterJonn
 
 # Empfohlen
     - https://www.curseforge.com/minecraft/modpacks/extending-horizons
